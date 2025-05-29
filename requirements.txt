@@ -3,3 +3,6 @@ pandas
 matplotlib
 numpy
 FinMind
+tqdm
+aiohttp
+yarl

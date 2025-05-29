@@ -7,7 +7,7 @@ from FinMind.data import DataLoader
 
 # 初始化 API
 api = DataLoader()
-api.login_by_token(api_token="your_token_here")  # ← 改成你的 token
+api.login_by_token(api_token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wNS0yOCAxNjo0NjowOCIsInVzZXJfaWQiOiJrZXZpbjA0MjEwNDIxIiwiaXAiOiIxLjE3MS40Ni44MiJ9.wXAcH1WJYxQYg9WAJYNsWRRZpTRSea-Tkq9kGOSpgGI")  # ← 改成你的 token
 
 # Streamlit 介面
 st.set_page_config(page_title="台股河流圖分析", layout="wide")

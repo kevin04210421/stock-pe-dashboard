@@ -1,0 +1,3 @@
+stock_id,current_price,current_pe,median_pe,是否跌破低估,公司名稱
+2330,823,18.5,22.1,True,台積電
+2317,110,14.2,16.7,False,鴻海
